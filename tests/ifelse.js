@@ -7,6 +7,7 @@ if (mark >= 90) {
         console.log("candidate secured distinction");
     }
 }
+
 else if (mark > 80) {
     console.log("candidate secured above 80");
 }
@@ -22,7 +23,7 @@ else {
     }
     else {
         if (mark < 40) {
-            console.log("candidate has failed");
+            console.log("candidate has failed  badly");
 
             if (mark < 30) {
                 console.log("candidate and his parents are requested to meet HM");
