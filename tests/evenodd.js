@@ -14,3 +14,5 @@ for(let i=2;i<=20;i++)
 }
 console.log("even values are "+even);
 console.log("odd values are "+odd);
+// Harish code
+console.log("changes made by harish")
