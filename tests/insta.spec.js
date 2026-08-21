@@ -7,5 +7,7 @@ test("verify Insta gram url ", async({page})=>
    console.log(await page.title());
   await expect(page).toHaveURL('https://www.instagram.com/');
   await expect(page).toHaveTitle("Instagram");
+
+  Console.log("jenkins polling 4.22")
    
 })
