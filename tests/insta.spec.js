@@ -9,5 +9,6 @@ test("verify Insta gram url ", async({page})=>
   await expect(page).toHaveTitle("Instagram");
 
   console.log("jenkins polling 5.00");
+  console.log("switching branches");
    
 })
